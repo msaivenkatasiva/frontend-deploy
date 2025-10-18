@@ -22,3 +22,7 @@ variable "zone_name" {
     type = string
     default = "devops76.sbs"
 }
+
+variable "app_version" {
+    
+}
